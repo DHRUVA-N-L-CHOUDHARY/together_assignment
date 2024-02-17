@@ -21,20 +21,24 @@ This Flutter app implements a discovery page that loads data from a mock API and
 ## Installation
 
 1. Clone the repository:
+   
     git clone https://github.com/DHRUVA-N-L-CHOUDHARY/together_assignment.git
     
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+   
     cd together_assignment
     
 
-3. Install dependencies:
+4. Install dependencies:
+   
     flutter pub get
     
 
 ## Usage
 
 1. Run the app on a simulator or device:
+   
     flutter run
     
     
