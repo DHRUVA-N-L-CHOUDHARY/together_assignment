@@ -47,4 +47,5 @@ This Flutter app implements a discovery page that loads data from a mock API and
     
     
 ## Screenshots
-<img src="screenshots/screenshot_1.jpg" width="25%"></img>
+<img src="https://github.com/DHRUVA-N-L-CHOUDHARY/together_assignment/assets/96297602/a8291121-86cf-46c2-bd5c-2e839f017755" width
+="25%"></img>
